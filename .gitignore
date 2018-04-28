@@ -1,0 +1,32 @@
+*.original
+.idea
+.metadata
+.project
+.classpath
+.settings/
+target/
+/.DS_Store
+*/build/*
+/build/*
+*/out/**
+
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/bin/
+*/bin/*
+.gradle/*
+/logs/*
+/.gradle/
+
+*.springBeans
+/build/
+
+*.iml
+*.log
